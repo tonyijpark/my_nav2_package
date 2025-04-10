@@ -1,0 +1,51 @@
+[0.023s] Invoking command in '/home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/peek/ros2_ws/src/my_nav2_package -DCMAKE_INSTALL_PREFIX=/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package
+[0.269s] -- The C compiler identification is GNU 11.4.0
+[1.275s] -- The CXX compiler identification is GNU 13.1.0
+[1.897s] -- Detecting C compiler ABI info
+[2.081s] -- Detecting C compiler ABI info - done
+[2.089s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.089s] -- Detecting C compile features
+[2.090s] -- Detecting C compile features - done
+[2.092s] -- Detecting CXX compiler ABI info
+[2.305s] -- Detecting CXX compiler ABI info - done
+[2.314s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.314s] -- Detecting CXX compile features
+[2.315s] -- Detecting CXX compile features - done
+[2.319s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.477s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.605s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.717s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.717s] -- Configured cppcheck include dirs: 
+[2.718s] -- Configured cppcheck exclude dirs and/or files: 
+[2.720s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.723s] -- Added test 'lint_cmake' to check CMake code style
+[2.725s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.729s] -- Added test 'uncrustify' to check C / C++ code style
+[2.729s] -- Configured uncrustify additional arguments: 
+[2.731s] -- Added test 'xmllint' to check XML markup files
+[2.734s] -- Configuring done
+[2.744s] -- Generating done
+[2.749s] -- Build files have been written to: /home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package
+[2.758s] Invoked command in '/home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/peek/ros2_ws/src/my_nav2_package -DCMAKE_INSTALL_PREFIX=/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package
+[2.762s] Invoking command in '/home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package -- -j4 -l4
+[2.811s] Invoked command in '/home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package -- -j4 -l4
+[2.824s] Invoking command in '/home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package
+[2.832s] -- Install configuration: ""
+[2.834s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package//launch
+[2.836s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package//launch/bringup_launch.py
+[2.837s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/ament_index/resource_index/package_run_dependencies/my_nav2_package
+[2.837s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/ament_index/resource_index/parent_prefix_path/my_nav2_package
+[2.839s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/ament_prefix_path.sh
+[2.840s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/ament_prefix_path.dsv
+[2.840s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/path.sh
+[2.840s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/path.dsv
+[2.840s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.bash
+[2.841s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.sh
+[2.841s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.zsh
+[2.841s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.dsv
+[2.841s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/package.dsv
+[2.842s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/ament_index/resource_index/packages/my_nav2_package
+[2.843s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/cmake/my_nav2_packageConfig.cmake
+[2.843s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/cmake/my_nav2_packageConfig-version.cmake
+[2.844s] -- Installing: /home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/package.xml
+[2.846s] Invoked command in '/home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/peek/ros2_ws/src/my_nav2_package/build/my_nav2_package

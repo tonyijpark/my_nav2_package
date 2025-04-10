@@ -1,0 +1,16 @@
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package//launch/bringup_launch.py
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/ament_index/resource_index/package_run_dependencies/my_nav2_package
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/ament_index/resource_index/parent_prefix_path/my_nav2_package
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/ament_prefix_path.sh
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/ament_prefix_path.dsv
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/path.sh
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/environment/path.dsv
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.bash
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.sh
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.zsh
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/local_setup.dsv
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/package.dsv
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/ament_index/resource_index/packages/my_nav2_package
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/cmake/my_nav2_packageConfig.cmake
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/cmake/my_nav2_packageConfig-version.cmake
+/home/peek/ros2_ws/src/my_nav2_package/install/my_nav2_package/share/my_nav2_package/package.xml
