@@ -39,4 +39,10 @@ install(
   DESTINATION share/${PROJECT_NAME}/
 )
 
+
+install(PROGRAMS
+  scripts/map_republisher.py
+  DESTINATION lib/${PROJECT_NAME}
+)
+
 ament_package()
